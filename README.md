@@ -1,4 +1,5 @@
-# TUGAS BESAR IF2111 Kelompok 4 
+# TUGAS BESAR IF2111 
+## PROGRAM CUSTOM SNAKE AND LADDER GAME
 
 ## DESKRIPSI PROGRAM
 
@@ -7,22 +8,9 @@ Program yang dibuat bernama MobiTangga yang merupakan sebuah permainan yang kons
 Permainan Mobitangga diimplementasikan dengan memakai bahasa C berbasis text melalui command line(CLI) dan memanfaatkan ADT yang telah dipelajari pada mata kuliah IF2111 - Algoritma dan Struktur Data. Namun juga terdapat beberapa ADT tambahan yang dibuat tersendiri untuk mendukung keberjalanan program ini. 
 
 
-## ANGGOTA KELOMPOK 4
-
-18220047 - Dhiya Risalah Ghaida
-
-18220084 - Dewa Ayu Mutiara Kirana P D
-
-18220059 - Faiza Aqiela Zuma
-
-18220030 - Shafira Putri Azmi Imani
-
-18220032 - Rifki Kaida
-
-18219098 - Muhamad Agung Ahsary
-
-
-
 ## CARA KOMPILASI PROGRAM
 
 gcc ./src/ADT/Command/command.c ./src/ADT/Mesinkar/mesin_kar.c ./src/ADT/Mesinkata/mesin_kata.c ./src/ADT/Teleporter/teleporter.c ./src/ADT/Roll/roll.c ./src/ADT/Map/map.c ./src/ADT/Player/player.c ./src/ADT/ListLinier/listlinier.c ./src/ADT/Skill/skill.c ./src/ADT/Stack/stack.c ./src/banner.c ./src/console.c ./src/main.c -o main
+
+## CARA KOMPILASI PROGRAM
+Run main.exe
